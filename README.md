@@ -4,9 +4,7 @@ This project explores breast cancer trends, demographics, and outcomes in the st
 
 ## 📌 Objectives
 
-- Understand breast cancer incidence and mortality across counties.
-- Explore correlations with demographics, socioeconomic factors, and healthcare access.
-- (Optional) Build predictive models for diagnosis or survival outcomes.
+
 
 ## 📂 Project Structure
 
